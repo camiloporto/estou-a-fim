@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Estou a Fim</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="main_label_iam_text">Estou em:</string>
+    <string name="main_label_iamlookingfor_text">Estou a fim de:</string>
+    <string name="main_btn_place_text_description">Place Button</string>
+    <string name="main_edit_say_what_are_you_looking_for_text">Say what are you looking for...</string>
+
+</resources>
